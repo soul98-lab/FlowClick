@@ -1,0 +1,16 @@
+﻿<svg width="220" height="42" viewBox="0 0 220 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flowGrad" x1="6" x2="32" y1="6" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFD245"/>
+      <stop offset="1" stop-color="#FF8F1F"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="18" cy="21" r="14" fill="url(#flowGrad)"/>
+  <circle cx="15" cy="15" r="8" fill="white" fill-opacity="0.18"/>
+  <path d="M8 22.5C8 18.3579 11.3579 15 15.5 15H17.7C20.7979 15 23.3 17.5021 23.3 20.6V21.8C23.3 24.8979 20.7979 27.4 17.7 27.4H15.5C11.3579 27.4 8 24.0421 8 19.9V22.5Z" fill="white" fill-opacity="0.9"/>
+  <circle cx="25.5" cy="30" r="5.2" fill="#1642B9" stroke="white" stroke-width="1.6"/>
+
+  <text x="42" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Flow</text>
+  <text x="101" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#FFFFFF">Click</text>
+</svg>
